@@ -3,7 +3,7 @@
 
 https://pocketbase.io/
 
-یه همستر با چشم هاش موس رو دنیال میکرد منم تصمیم گرفتم بفهمم این چطور کار میکنه
+یه همستر با چشم هاش موس رو دنبال میکرد منم تصمیم گرفتم بفهمم این چطور کار میکنه
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Atan2definition.svg/700px-Atan2definition.svg.png)
 
