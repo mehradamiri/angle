@@ -10,7 +10,7 @@ document.addEventListener("mousemove", (e) => {
 
     const angleDeg = angle(mouseX , mouseY , ballX , ballY);
 
-    // console.log(angleDeg);
+    console.log(angleDeg);
     result.innerHTML = Math.round(angleDeg)+ "°" ;
 
 })
