@@ -10,9 +10,9 @@ document.addEventListener("mousemove", (e) => {
 
     const angleDeg = angle(mouseX , mouseY , ballX , ballY);
 
-    console.log(angleDeg);
     result.innerHTML = Math.round(angleDeg)+ "°" ;
 
+    document.getElementById("A").style.transform = `rotate(${angleDeg + 90}deg)`;
 })
 
 const angle = (cx,cy,ex,ey) => {

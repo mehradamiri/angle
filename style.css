@@ -1,0 +1,48 @@
+body {
+    background-color: black;
+    color: white;
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+}
+main {
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+    height: 100vh;
+}
+.xmeh {
+    position: absolute;
+    width: 100%;
+    height: 10px;
+    background-color: white;
+}
+.ymeh {
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10px;
+    height: 100%;
+    background-color: white;
+}
+.circle {
+    width: 700px;
+    height: 700px;
+    z-index: 900;
+    /* background-color: yellow; */
+    border-radius: 100%;
+    border: 10px solid green;
+}
+#result {
+    z-index: 52;
+    position: absolute;
+    color: yellow;
+    font-size: 100px;
+    font-weight: bold;
+    font-family: 'Gill Sans';
+}
+#A {
+    position: absolute;
+    z-index: 100;
+}
