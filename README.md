@@ -1,7 +1,7 @@
 # angle
 demo : https://courageous-centaur-cfe522.netlify.app/
 
-امروز توی سایتpoclet base بودم و یه چیز جالب دیدم
+امروز توی سایت pocketbase بودم و یه چیز جالب دیدم
 
 https://pocketbase.io/
 
